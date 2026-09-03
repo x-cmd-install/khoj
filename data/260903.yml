@@ -1,18 +1,20 @@
 about:
-  description: Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
+  description:
+  |
+    Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
   license: AGPL-3.0
   homepage: https://khoj.dev
   head: ae229ca
   archived: false
   latestVersion: 2.0.0-beta.28
-  collectedAt: 2026-09-03T05:11:05Z
+  collectedAt: 2026-09-03T22:38:30Z
 timeline:
   created: 2021-08-16
   lastCommit: 2026-08-02
   lastRelease: 2026-03-26
 popularity:
-  star: 37016
-  watcher: 178
+  star: 37048
+  watcher: 179
   fork: 2450
   release: 173
   contributor: 72
@@ -28,7 +30,7 @@ language:
   Shell: 14889
   Dockerfile: 10523
   Java: 2689
-totalLine: 3224879
+totalBytes: 3224879
 recent:
   last30d:
     since: 2026-08-04
