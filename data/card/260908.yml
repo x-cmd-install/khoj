@@ -5,19 +5,19 @@ about:
   head: ae229ca
   archived: false
   latestVersion: "2.0.0-beta.28"
-  collectedAt: 2026-09-08T03:09:54Z
+  collectedAt: 2026-09-08T05:59:10Z
 timeline:
   created: 2021-08-16
   lastCommit: 2026-08-02
   lastRelease: 2026-03-26
 popularity:
-  star: 37188
-  watcher: 180
+  star: 37192
+  watcher: 181
   fork: 2462
   release: 173
   contributor: 72
   pullRequest: 648
-  issue: 609
+  issue: 610
 language:
   Python: 1642061
   TypeScript: 1167935
@@ -36,7 +36,7 @@ recent:
     mergedPR: 0
     openPR: 14
     closedIssue: 0
-    openIssue: 7
+    openIssue: 8
     commit: 0
   last60d:
     since: 2026-07-10
@@ -44,7 +44,7 @@ recent:
     mergedPR: 1
     openPR: 26
     closedIssue: 2
-    openIssue: 14
+    openIssue: 15
     commit: 2
   last90d:
     since: 2026-06-10
@@ -52,7 +52,7 @@ recent:
     mergedPR: 3
     openPR: 31
     closedIssue: 3
-    openIssue: 24
+    openIssue: 25
     commit: 12
   last180d:
     since: 2026-03-12
@@ -60,7 +60,7 @@ recent:
     mergedPR: 10
     openPR: 41
     closedIssue: 13
-    openIssue: 28
+    openIssue: 29
     commit: 32
   last360d:
     since: 2025-09-13
@@ -68,7 +68,7 @@ recent:
     mergedPR: 17
     openPR: 44
     closedIssue: 21
-    openIssue: 36
+    openIssue: 37
     commit: 118
   last720d:
     since: 2024-09-18
@@ -76,18 +76,18 @@ recent:
     mergedPR: 122
     openPR: 44
     closedIssue: 106
-    openIssue: 74
+    openIssue: 75
     commit: 1754
 total:
   release: 173
   mergedPR: 500
   openPR: 44
   closedIssue: 506
-  openIssue: 103
+  openIssue: 104
   commit: 5180
 ---
 path: /home/runner/.x-repo/github.com/khoj-ai/khoj
-collectedAt: 2026-09-08T03:10:02Z
+collectedAt: 2026-09-08T05:59:19Z
 loc:
   Python:
     code: 33243
