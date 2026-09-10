@@ -7,7 +7,7 @@ about:
   latestVersion: "2.0.0-beta.28"
   latestRelease: "2.0.0-beta.28"
   latestPrerelease: "2.0.0-beta.23"
-  collectedAt: 2026-09-10T17:53:59Z
+  collectedAt: 2026-09-10T21:43:53Z
 timeline:
   created: 2021-08-16
   lastCommit: 2026-08-02
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-03-26
   lastPrerelease: 2025-12-29
 popularity:
-  star: 37256
+  star: 37258
   watcher: 181
   fork: 2466
   release: 173
@@ -91,7 +91,7 @@ total:
   commit: 5180
 ---
 path: /home/runner/.x-repo/github.com/khoj-ai/khoj
-collectedAt: 2026-09-10T17:54:10Z
+collectedAt: 2026-09-10T21:44:02Z
 loc:
   Python:
     code: 33243
