@@ -4,7 +4,7 @@
 
 Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
 
-![khoj](https://repo.x-cmd.io/khoj.svg)
+[![x-cmd/install — khoj Code Quality Monitoring Repo Card](https://repo.x-cmd.io/khoj.svg)](https://x-cmd.com/install/khoj)
 
 ## Install
 
@@ -38,7 +38,7 @@ Total: **90,615** lines of code across **409** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 37,399 · **Forks**: 2,484 · **Open issues**: 610 · **Contributors**: 72
+- **Stars**: 37,420 · **Forks**: 2,488 · **Open issues**: 610 · **Contributors**: 72
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **90,615** lines of code across **409** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 12 | 1 | 5 | 0 |
-| last60d | 2026-07-20 | 0 | 1 | 27 | 3 | 11 | 2 |
-| 90d | 2026-06-20 | 0 | 3 | 32 | 5 | 22 | 12 |
-| last180d | 2026-03-22 | 3 | 8 | 41 | 14 | 26 | 28 |
-| 360d | 2025-09-23 | 12 | 17 | 48 | 23 | 35 | 118 |
-| last720d | 2024-09-28 | 92 | 118 | 48 | 106 | 72 | 1738 |
+| 30d | 2026-08-21 | 0 | 0 | 12 | 1 | 4 | 0 |
+| last60d | 2026-07-22 | 0 | 1 | 27 | 3 | 11 | 2 |
+| 90d | 2026-06-22 | 0 | 3 | 32 | 5 | 22 | 12 |
+| last180d | 2026-03-24 | 3 | 7 | 41 | 13 | 26 | 28 |
+| 360d | 2025-09-25 | 12 | 17 | 48 | 23 | 35 | 118 |
+| last720d | 2024-09-30 | 91 | 116 | 48 | 105 | 72 | 1724 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for khoj lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:24:14Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:08:44Z._
