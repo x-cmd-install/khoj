@@ -4,7 +4,7 @@
 
 Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
 
-[![x-cmd/install — khoj Code Quality Monitoring Repo Card](https://repo.x-cmd.io/khoj.svg?lang=zh)](https://x-cmd.com/install/khoj)
+[![x-cmd/install — khoj Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/khoj.svg?lang=zh)](https://x-cmd.com/install/khoj)
 
 ## 安装
 
@@ -38,7 +38,7 @@ x install khoj
 
 ## 流行度
 
-- **Star**: 37,458 · **Fork**: 2,490 · **开放 issue**: 610 · **贡献者**: 72
+- **Star**: 37,468 · **Fork**: 2,490 · **开放 issue**: 610 · **贡献者**: 72
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install khoj
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 7 | 1 | 4 | 0 |
-| last60d | 2026-07-24 | 0 | 1 | 27 | 3 | 9 | 2 |
-| 90d | 2026-06-24 | 0 | 1 | 32 | 5 | 22 | 2 |
-| last180d | 2026-03-26 | 1 | 6 | 41 | 12 | 26 | 12 |
-| 360d | 2025-09-27 | 12 | 17 | 48 | 22 | 35 | 118 |
-| last720d | 2024-10-02 | 91 | 114 | 48 | 105 | 72 | 1716 |
+| 30d | 2026-08-24 | 0 | 0 | 7 | 1 | 4 | 0 |
+| last60d | 2026-07-25 | 0 | 1 | 27 | 3 | 9 | 2 |
+| 90d | 2026-06-25 | 0 | 1 | 32 | 5 | 22 | 2 |
+| last180d | 2026-03-27 | 0 | 6 | 41 | 12 | 26 | 12 |
+| 360d | 2025-09-28 | 12 | 17 | 48 | 22 | 35 | 118 |
+| last720d | 2024-10-03 | 91 | 114 | 48 | 105 | 72 | 1715 |
 
 ## Release 资产
 
@@ -72,4 +72,4 @@ khoj 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:15:30Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:20:16Z._
