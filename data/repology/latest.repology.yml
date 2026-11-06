@@ -1,0 +1,36 @@
+- repo: nix_stable_24_05
+  srcname: khoj
+  visiblename: khoj
+  version: 1.0.1
+  origversion: null
+  status: unique
+  summary: Natural Language Search Assistant for your Org-Mode and Markdown notes, Beancount transactions and Photos
+  maintainers:
+    - 7rat13@gmail.com
+  licenses:
+    - AGPL-3.0-or-later
+  vulnerable: true
+- repo: nix_stable_24_11
+  srcname: khoj
+  visiblename: khoj
+  version: 1.0.1
+  origversion: null
+  status: unique
+  summary: Natural Language Search Assistant for your Org-Mode and Markdown notes, Beancount transactions and Photos
+  maintainers:
+    - 7rat13@gmail.com
+  licenses:
+    - AGPL-3.0-or-later
+  vulnerable: true
+- repo: nix_stable_25_05
+  srcname: khoj
+  visiblename: khoj
+  version: 1.0.1
+  origversion: null
+  status: unique
+  summary: Natural Language Search Assistant for your Org-Mode and Markdown notes, Beancount transactions and Photos
+  maintainers:
+    - 7rat13@gmail.com
+  licenses:
+    - AGPL-3.0-or-later
+  vulnerable: true
