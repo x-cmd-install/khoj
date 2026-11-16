@@ -38,22 +38,22 @@ Total: **90,615** lines of code across **409** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 38,128 · **Forks**: 2,551 · **Open issues**: 618 · **Contributors**: 72
+- **Stars**: 38,143 · **Forks**: 2,554 · **Open issues**: 618 · **Contributors**: 72
 
 ## Totals (cumulative)
 
-- **Releases**: 173 · **Merged PRs**: 500 · **Open PRs**: 60 · **Closed issues**: 508 · **Open issues**: 110 · **Commits**: 5180
+- **Releases**: 173 · **Merged PRs**: 500 · **Open PRs**: 61 · **Closed issues**: 508 · **Open issues**: 110 · **Commits**: 5180
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 0 | 10 | 0 | 1 | 0 |
-| last60d | 2026-09-16 | 0 | 0 | 21 | 0 | 6 | 0 |
-| 90d | 2026-08-17 | 0 | 0 | 27 | 1 | 11 | 0 |
-| last180d | 2026-05-19 | 0 | 3 | 50 | 9 | 33 | 12 |
-| 360d | 2025-11-20 | 9 | 16 | 60 | 21 | 43 | 82 |
-| last720d | 2024-11-25 | 68 | 92 | 60 | 89 | 75 | 1202 |
+| 30d | 2026-10-17 | 0 | 0 | 11 | 0 | 1 | 0 |
+| last60d | 2026-09-17 | 0 | 0 | 22 | 0 | 6 | 0 |
+| 90d | 2026-08-18 | 0 | 0 | 28 | 1 | 11 | 0 |
+| last180d | 2026-05-20 | 0 | 3 | 51 | 9 | 33 | 12 |
+| 360d | 2025-11-21 | 9 | 16 | 61 | 21 | 43 | 80 |
+| last720d | 2024-11-26 | 68 | 92 | 61 | 89 | 74 | 1198 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for khoj lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:51:48Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:19:57Z._
